@@ -16,3 +16,11 @@ function logWhisper(string){
   console.log(x);
 }
 
+function sayHiToGrandma(string){
+  
+}
+
+
+
+
+
